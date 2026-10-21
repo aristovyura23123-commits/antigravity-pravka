@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pravka",
+  "version": "1.0.0",
+  "description": "Профессиональный плагин для Antigravity CLI: глубокая ИИ-редактура и гуманизация русскоязычных текстов, удаление канцелярита и штампов, офлайн-очистка скрытых символов Unicode и строгая защита фактов и инвариантов.",
+  "author": {
+    "name": "aristovyura23123-commits"
+  },
+  "keywords": [
+    "antigravity",
+    "antigravity-plugin",
+    "pravka",
+    "humanizer",
+    "russian",
+    "copywriting",
+    "text-editor",
+    "unicode-cleaner",
+    "cliches"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/aristovyura23123-commits/antigravity-pravka"
+}
